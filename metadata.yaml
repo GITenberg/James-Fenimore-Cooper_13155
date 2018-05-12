@@ -1,0 +1,28 @@
+_repo: James-Fenimore-Cooper_13155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phillips, Mary Elizabeth
+    alias: Phillips, Mary E. (Mary Elizabeth)
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '4868'
+    url: http://www.gutenberg.org/2009/agents/4868
+description: ''
+gutenberg_issued: '2004-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Novelists, American -- 19th century -- Biography'
+- !lcsh 'Cooper, James Fenimore, 1789-1851'
+title: James Fenimore Cooper
+url: http://www.gutenberg.org/ebooks/13155
